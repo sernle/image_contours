@@ -106,7 +106,4 @@ venv.bak/
 .mypy_cache/
 
 .idea/
-aind-complete-opencv.yml
-image_contouring.ipynb
-image_contours.iml
-images/
+*.iml
